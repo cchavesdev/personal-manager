@@ -1,0 +1,20 @@
+.food-container{
+  padding: 20px;
+  .search-field{
+    margin-bottom: 30px;
+
+  }
+  table tr:nth-child(even){
+    td{
+      background-color: #F5F5F5;
+    }
+  }
+  @media (max-width: 380px) {
+    table{
+     td, th{
+      font-size: 0.7rem;
+      padding: 5px;
+     }
+    }
+  }
+}

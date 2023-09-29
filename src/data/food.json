@@ -1,0 +1,389 @@
+[
+    {
+      "food": "Arroz blanco",
+      "sizeCooked": "1/3 Taza",
+      "nonCooked": "20g",
+      "cooked": "50g",
+      "category": "Harina"
+    },
+    {
+      "food": "Arroz integral",
+      "sizeCooked": "1/3 Taza",
+      "nonCooked": "20g",
+      "cooked": "70g",
+      "category": "Harina"
+    },
+    {
+      "food": "Avena",
+      "sizeCooked": "1/4 Taza",
+      "nonCooked": "25g",
+      "category": "Harina"
+    },
+    {
+      "food": "Arepa",
+      "sizeCooked": "1 unidad",
+      "cooked": "40g",
+      "category": "Harina"
+    },
+    {
+      "food": "Arvejas",
+      "sizeCooked": "1/2 Taza sin caldo",
+      "nonCooked": "100g",
+      "cooked": "100g",
+      "category": "Harina"
+    },
+    {
+      "food": "Camote",
+      "sizeCooked": "1/2 Taza",
+      "nonCooked": "100g",
+      "cooked": "85g",
+      "category": "Harina"
+    },
+    {
+      "food": "Canelones",
+      "sizeCooked": "2 unidades",
+      "nonCooked": "20g",
+      "cooked": "50g",
+      "category": "Harina"
+    },
+    {
+      "food": "Cereal desayuno sin azúcar",
+      "sizeCooked": "3/4 Taza",
+      "nonCooked": "30g",
+      "category": "Harina"
+    },
+    {
+      "food": "Cuscus",
+      "sizeCooked": "1/3 Taza",
+      "nonCooked": "20g",
+      "cooked": "154g",
+      "category": "Harina"
+    },
+    {
+      "food": "Elote (parte comestible)",
+      "sizeCooked": "1/2 Taza",
+      "nonCooked": "50g",
+      "cooked": "80g",
+      "category": "Harina"
+    },
+    {
+      "food": "Frijoles",
+      "sizeCooked": "1/2 Taza sin caldo",
+      "nonCooked": "25g",
+      "cooked": "65g",
+      "category": "Harina"
+    },
+    {
+      "food": "Gallo pinto",
+      "sizeCooked": "1/3 Taza",
+      "cooked": "65g",
+      "category": "Harina"
+    },
+    {
+      "food": "Garbanzos",
+      "sizeCooked": "1/2 Taza sin caldo",
+      "nonCooked": "25g",
+      "cooked": "55g",
+      "category": "Harina"
+    },
+    {
+      "food": "Granola",
+      "sizeCooked": "1/4 Taza",
+      "nonCooked": "30g",
+      "category": "Harina"
+    },
+    {
+      "food": "Harina de maíz",
+      "sizeCooked": "3 cucharadas",
+      "nonCooked": "20g",
+      "category": "Harina"
+    },
+    {
+      "food": "Harina de trigo",
+      "sizeCooked": "3 cucharadas",
+      "nonCooked": "20g",
+      "category": "Harina"
+    },
+    {
+      "food": "Lentejas",
+      "sizeCooked": "1/2 Taza sin caldo",
+      "nonCooked": "25g",
+      "cooked": "98g",
+      "category": "Harina"
+    },
+    {
+      "food": "Maíz en granos secos",
+      "sizeCooked": "1/3 Taza",
+      "nonCooked": "20g",
+      "category": "Harina"
+    },
+    {
+      "food": "Maíz dulce",
+      "sizeCooked": "1/2 Taza",
+      "cooked": "80g",
+      "category": "Harina"
+    },
+    {
+      "food": "Papa",
+      "sizeCooked": "1/2 Taza",
+      "nonCooked": "100g",
+      "cooked": "85g",
+      "category": "Harina"
+    },
+    {
+      "food": "Palomitas de maíz",
+      "sizeCooked": "3 tazas reventadas",
+      "cooked": "25g",
+      "category": "Harina"
+    },
+    {
+      "food": "Pasta blanca o integral",
+      "sizeCooked": "1/2 Taza",
+      "nonCooked": "20g",
+      "cooked": "50g",
+      "category": "Harina"
+    },
+    {
+      "food": "Plátano",
+      "sizeCooked": "1/4 de unidad",
+      "cooked": "65g",
+      "category": "Harina"
+    },
+    {
+      "food": "Pejibaye",
+      "sizeCooked": "1 1/2 unidad",
+      "cooked": "40g",
+      "category": "Harina"
+    },
+    {
+      "food": "Puré de papa o camote o yuca",
+      "sizeCooked": "1/2 Taza",
+      "nonCooked": "75g",
+      "cooked": "85g",
+      "category": "Harina"
+    },
+    {
+      "food": "Quinoa",
+      "sizeCooked": "1/3 Taza",
+      "nonCooked": "25g",
+      "cooked": "70g",
+      "category": "Harina"
+    },
+    {
+      "food": "Tortilla de maíz",
+      "sizeCooked": "3 unidades",
+      "cooked": "45g",
+      "category": "Harina"
+    },
+    {
+      "food": "Tortilla de trigo",
+      "sizeCooked": "1 unidad",
+      "cooked": "28g",
+      "category": "Harina"
+    },
+    {
+      "food": "Yuca",
+      "sizeCooked": "1/2 unidad",
+      "nonCooked": "50g",
+      "cooked": "50g",
+      "category": "Harina"
+    },
+  {
+      "food": "Almejas",
+      "sizeCooked": "6 unidades",
+      "nonCooked": "55g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Atún en agua",
+      "sizeCooked": "2 cucharadas",
+      "nonCooked": "25g",
+      "cooked": "25g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Calamares",
+      "sizeCooked": "3-4 unidades",
+      "nonCooked": "45g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Camarones",
+      "sizeCooked": "3 medianos",
+      "nonCooked": "35g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Clara de huevo",
+      "sizeCooked": "2 unidades",
+      "cooked": "65g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Carne de res sin grasa visible",
+      "sizeCooked": "1 cajita de fósforos",
+      "nonCooked": "35g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Carne molida",
+      "sizeCooked": "2 cucharadas",
+      "nonCooked": "34g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Ceviche",
+      "sizeCooked": "1/4 Taza",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Chuleta de cerdo",
+      "sizeCooked": "1 cajita de fósforos",
+      "nonCooked": "35g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Jamón pavo light",
+      "sizeCooked": "2 rebanadas",
+      "nonCooked": "40g",
+      "cooked": "40g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Lomo de cerdo",
+      "sizeCooked": "1 cajita de fósforos",
+      "nonCooked": "30g",
+      "cooked": "25g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Mejillones",
+      "sizeCooked": "6 unidades",
+      "nonCooked": "59g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Muslo de pollo sin piel",
+      "sizeCooked": "1 unidad",
+      "nonCooked": "30g",
+      "cooked": "25g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Ostras",
+      "sizeCooked": "6 medianas",
+      "nonCooked": "75g",
+      "cooked": "100g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Pechuga de pollo",
+      "sizeCooked": "1 cajita de fósforos",
+      "nonCooked": "30g",
+      "cooked": "25g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Pescado",
+      "sizeCooked": "1 cajita de fósforos",
+      "nonCooked": "35g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Pepperoni",
+      "sizeCooked": "5 rebanadas",
+      "cooked": "35g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Pulpo",
+      "sizeCooked": "47g",
+      "cooked": "23g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Queso cottage",
+      "sizeCooked": "1/4 Taza",
+      "cooked": "65g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Queso bajo en grasa",
+      "sizeCooked": "1 cajita de fósforos",
+      "nonCooked": "30g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Queso blanco o fresco",
+      "sizeCooked": "1 cajita de fósforos",
+      "nonCooked": "30g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Queso ricotta",
+      "sizeCooked": "1/4 Taza",
+      "cooked": "65g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Queso mozzarella o feta",
+      "sizeCooked": "1 cajita de fósforos",
+      "nonCooked": "35g",
+      "cooked": "35g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Queso azul o parmesano",
+      "sizeCooked": "1 cajita de fósforos",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Salmón de lata",
+      "sizeCooked": "2 cucharadas",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Sardinas",
+      "sizeCooked": "2 unidades",
+      "nonCooked": "30g",
+      "cooked": "30g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Salami",
+      "sizeCooked": "5 rebanadas",
+      "cooked": "35g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Surimi",
+      "sizeCooked": "1 unidad",
+      "cooked": "58g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Tofu",
+      "cooked": "69g",
+      "category": "Proteina"
+    },
+    {
+      "food": "Vieiras",
+      "sizeCooked": "3 unidades",
+      "nonCooked": "42g",
+      "cooked": "30g",
+      "category": "Proteina"
+    }
+  ]
