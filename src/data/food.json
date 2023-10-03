@@ -41,7 +41,7 @@
     },
     {
       "food": "Canelones",
-      "sizeCooked": "2 unidades",
+      "sizeCooked": "2 und",
       "nonCooked": "20g",
       "cooked": "50g",
       "category": "Harina"
@@ -94,13 +94,13 @@
     },
     {
       "food": "Harina de maíz",
-      "sizeCooked": "3 cucharadas",
+      "sizeCooked": "3 cdas",
       "nonCooked": "20g",
       "category": "Harina"
     },
     {
       "food": "Harina de trigo",
-      "sizeCooked": "3 cucharadas",
+      "sizeCooked": "3 cdas",
       "nonCooked": "20g",
       "category": "Harina"
     },
@@ -171,7 +171,7 @@
     },
     {
       "food": "Tortilla de maíz",
-      "sizeCooked": "3 unidades",
+      "sizeCooked": "3 und",
       "cooked": "45g",
       "category": "Harina"
     },
@@ -188,23 +188,41 @@
       "cooked": "50g",
       "category": "Harina"
     },
+    {
+      "food": "Bagutte",
+      "sizeCooked": "5cm",
+      "category": "Harina"
+
+    },
+    {
+      "food": "Platano",
+      "sizeCooked": "1/4 de unidad",
+      "category": "Harina"
+
+    },
+    {
+      "food": "Pure",
+      "sizeCooked": "1/2 Taza",
+      "category": "Harina"
+
+    },
   {
       "food": "Almejas",
-      "sizeCooked": "6 unidades",
+      "sizeCooked": "6 und",
       "nonCooked": "55g",
       "cooked": "30g",
       "category": "Proteina"
     },
     {
       "food": "Atún en agua",
-      "sizeCooked": "2 cucharadas",
+      "sizeCooked": "2 cdas",
       "nonCooked": "25g",
       "cooked": "25g",
       "category": "Proteina"
     },
     {
       "food": "Calamares",
-      "sizeCooked": "3-4 unidades",
+      "sizeCooked": "3-4 und",
       "nonCooked": "45g",
       "cooked": "30g",
       "category": "Proteina"
@@ -218,7 +236,7 @@
     },
     {
       "food": "Clara de huevo",
-      "sizeCooked": "2 unidades",
+      "sizeCooked": "2 und",
       "cooked": "65g",
       "category": "Proteina"
     },
@@ -231,7 +249,7 @@
     },
     {
       "food": "Carne molida",
-      "sizeCooked": "2 cucharadas",
+      "sizeCooked": "2 cdas",
       "nonCooked": "34g",
       "cooked": "30g",
       "category": "Proteina"
@@ -265,7 +283,7 @@
     },
     {
       "food": "Mejillones",
-      "sizeCooked": "6 unidades",
+      "sizeCooked": "6 und",
       "nonCooked": "59g",
       "cooked": "30g",
       "category": "Proteina"
@@ -351,13 +369,13 @@
     },
     {
       "food": "Salmón de lata",
-      "sizeCooked": "2 cucharadas",
+      "sizeCooked": "2 cdas",
       "cooked": "30g",
       "category": "Proteina"
     },
     {
       "food": "Sardinas",
-      "sizeCooked": "2 unidades",
+      "sizeCooked": "2 und",
       "nonCooked": "30g",
       "cooked": "30g",
       "category": "Proteina"
@@ -381,9 +399,267 @@
     },
     {
       "food": "Vieiras",
-      "sizeCooked": "3 unidades",
+      "sizeCooked": "3 und",
       "nonCooked": "42g",
       "cooked": "30g",
       "category": "Proteina"
+    },
+    {
+      "food": "Helado light",
+      "sizeCooked": "1/2 taza (+ 1 grasa)",     
+      "category": "Lacteo"
+    },
+    {
+      "food": "Helado sin grasa y sin azúcar",
+      "sizeCooked": "1/3 taza",     
+      "category": "Lacteo"
+    },
+
+    {
+      "food": "Leche en polvo 0%",
+      "sizeCooked": "1/3 taza",     
+      "category": "Lacteo"
+    },
+    {
+      "food": "Leche 0%",
+      "sizeCooked": "250ml ó 1 taza",     
+      "category": "Lacteo"
+    },
+    {
+      "food": "Leche 2%",
+      "sizeCooked": "200ml ó 3/4 taza",     
+      "category": "Lacteo"
+    },
+    {
+      "food": "Yogurt bajo en grasa",
+      "sizeCooked": "250ml ó 1 taza",     
+      "category": "Lacteo"
+    },
+    {
+      "food": "Yogurt griego bajo en grasa",
+      "sizeCooked": "125ml ó 1/2 taza",     
+      "category": "Lacteo"
+    },
+    {
+      "food": "Arándanos",
+      "sizeCooked": "3/4 taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Banano",
+      "sizeCooked": "1 pequeño o 1/2 grande",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Cas",
+      "sizeCooked": "1 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Cerezas",
+      "sizeCooked": "12 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Ciruela",
+      "sizeCooked": "2 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Ensalada de frutas",
+      "sizeCooked": "1/2 Taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Frambuesas",
+      "sizeCooked": "1 Taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Fresas",
+      "sizeCooked": "1 Taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Granadilla ",
+      "sizeCooked": "1 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Guanabana",
+      "sizeCooked": "3/4 Taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Guayaba ",
+      "sizeCooked": "1 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Jocotes",
+      "sizeCooked": "5 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Jugo natural",
+      "sizeCooked": "1/2 Taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Kiwi",
+      "sizeCooked": "1 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Limón dulce",
+      "sizeCooked": "1 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Mandarina",
+      "sizeCooked": "2 und pequeñas",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Mango",
+      "sizeCooked": "1/2 und ó 1/2 Taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Manzana",
+      "sizeCooked": "1 und pequeña",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Manzana agua",
+      "sizeCooked": "2 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Melocotón",
+      "sizeCooked": "1 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Melón",
+      "sizeCooked": "1 Taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Naranja",
+      "sizeCooked": "1 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Papaya",
+      "sizeCooked": "1 Taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Pera",
+      "sizeCooked": "1 und pequeña",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Piña",
+      "sizeCooked": "1 tajada",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Sandía",
+      "sizeCooked": "1 Taza",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Uvas",
+      "sizeCooked": "13 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Zapote",
+      "sizeCooked": "1 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Albaricoque",
+      "sizeCooked": "8 Mitades",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Ciruela Seca",
+      "sizeCooked": "3 und",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Higos Secos",
+      "sizeCooked": "1 y medio",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Pasas, Arándanos, frutas mixtas Secas",
+      "sizeCooked": "2 cds",     
+      "category": "Fruta"
+    },
+    {
+      "food": "Aceites (coco, soya, oliva, canola, etc)",
+      "sizeCooked": "1 cta",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Aceitunas",
+      "sizeCooked": "8 und",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Aderezo para ensalada light",
+      "sizeCooked": "1 cda",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Aguacate",
+      "sizeCooked": "1/4 ó 2 cds",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Chía",
+      "sizeCooked": "2 cds",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Mantequilla semillas",
+      "sizeCooked": "1 cta",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Margarina Light sin trans",
+      "sizeCooked": "1 cta",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Mayonesa Light",
+      "sizeCooked": "1 cta",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Almendras, nueces, marañon",
+      "sizeCooked": "6 und",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Maní",
+      "sizeCooked": "10 und",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Pistacho",
+      "sizeCooked": "15 und",     
+      "category": "Grasas"
+    },
+    {
+      "food": "Girasol, Ajonjolí",
+      "sizeCooked": "1 cda",     
+      "category": "Grasas"
     }
+
+    
   ]

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import food from '../../data/food.json';
+import food from "../../data/food.json";
 import {
   Table,
   TableContainer,
@@ -28,7 +28,7 @@ function FoodTable() {
     item.food.toLowerCase().includes(filterName.toLowerCase())
   );
 
-  const headingStyle = {background: "#000", color: "#fff"};
+  const headingStyle = { background: "#000", color: "#fff" };
 
   console.log(food);
   return (
@@ -46,9 +46,7 @@ function FoodTable() {
           <TableHead>
             <TableRow>
               <TableCell style={headingStyle}>Alimento</TableCell>
-              <TableCell style={headingStyle}>Porcion Cocido</TableCell>
-              <TableCell style={headingStyle}>Porcion Crudo</TableCell>
-              <TableCell style={headingStyle}>Medida Cocido</TableCell>
+              <TableCell style={headingStyle}>Medidas de Porción</TableCell>
               <TableCell style={headingStyle}>Tipo</TableCell>
             </TableRow>
           </TableHead>
@@ -56,9 +54,13 @@ function FoodTable() {
             {filteredItems.map((item, index) => (
               <TableRow key={index}>
                 <TableCell>{item.food}</TableCell>
-                <TableCell>{item.cooked}</TableCell>
-                <TableCell>{item.nonCooked}</TableCell>
-                <TableCell>{item.sizeCooked}</TableCell>
+                <TableCell>
+                  <ul>
+                    {item.cooked ? <li>{item.cooked} cocido</li> : <></>}
+                    {item.nonCooked ? <li>{item.nonCooked} crudo</li> : <></>}
+                    {item.sizeCooked ? <li>{item.sizeCooked}</li> : <></>}
+                  </ul>
+                </TableCell>
                 <TableCell>{item.category}</TableCell>
               </TableRow>
             ))}
