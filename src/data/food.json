@@ -80,6 +80,18 @@
       "category": "Harina"
     },
     {
+      "food": "Galleta María",
+      "sizeCooked": "1 pqte",
+      "cooked": "",
+      "category": "Harina"
+    },
+    {
+      "food": "Galleta Soda",
+      "sizeCooked": "1 pqte",
+      "cooked": "",
+      "category": "Harina"
+    },
+    {
       "food": "Garbanzos",
       "sizeCooked": "1/2 Taza sin caldo",
       "nonCooked": "25g",
