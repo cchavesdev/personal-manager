@@ -1,8 +1,6 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.scss";
 import FoodTable from "./components/FoodTable/FoodTable";
-import MenuAppBar from "./components/MenuAppBar/MenuAppBar";
 import Box from '@mui/material/Box';
 import CssBaseline from '@mui/material/CssBaseline';
 import BottomNavigation from '@mui/material/BottomNavigation';
