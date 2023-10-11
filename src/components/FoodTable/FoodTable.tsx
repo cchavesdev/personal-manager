@@ -11,6 +11,7 @@ import {
   Paper,
 } from "@mui/material";
 
+
 interface FoodItem {
   food: string;
   sizeCooked: string;
@@ -25,31 +26,37 @@ function FoodTable() {
   const [filterName, setFilterName] = useState<string>("");
 
   const filteredItems: FoodItem[] = foodItems.filter((item) =>
-    item.food.toLowerCase().includes(filterName.toLowerCase())
+    removeAccents(item.food.toLowerCase()).includes(removeAccents(filterName.toLowerCase()))
   );
 
-  const headingStyle = { background: "#000", color: "#fff" };
+  function removeAccents(str : String) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
 
   console.log(food);
   return (
     <div className="food-container">
-      <TextField
+     <div id="searchName">
+     <TextField
         label="Buscar por nombre"
         variant="outlined"
         fullWidth
         value={filterName}
         onChange={(e) => setFilterName(e.target.value)}
         className="search-field"
+        
       />
+     </div>
       <TableContainer component={Paper}>
         <Table stickyHeader>
-          <TableHead>
-            <TableRow>
-              <TableCell style={headingStyle}>Alimento</TableCell>
-              <TableCell style={headingStyle}>Medidas de Porción</TableCell>
-              <TableCell style={headingStyle}>Tipo</TableCell>
-            </TableRow>
-          </TableHead>
+            <TableHead>
+              <TableRow>
+                <TableCell>Alimento</TableCell>
+                <TableCell>Medidas de Porción</TableCell>
+                <TableCell>Tipo</TableCell>
+              </TableRow>
+            </TableHead>
           <TableBody>
             {filteredItems.map((item, index) => (
               <TableRow key={index}>
